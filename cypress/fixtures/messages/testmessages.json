@@ -1,0 +1,14 @@
+{
+    "username": "Admin",
+    "password": "admin123",
+    "incusername": "Admin123",
+    "incpassword": "admin1",
+    "dashboardpt": "Dashboard",
+    "OrangeHRM": "OrangeHRM",
+    "invalcreds": "Invalid credentials",
+    "required": "Required",
+    "resetpassword": "Reset Password",
+    "resetpassmsg": "A reset password link has been sent to you via email.",
+    "login": "Login"
+
+}
